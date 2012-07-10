@@ -1,0 +1,2546 @@
+# Copyright (C) 2010 Lazyest Gallery
+# This file is distributed under the same license as the Lazyest Gallery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lazyest Gallery 1.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/lazyest-gallery\n"
+"POT-Creation-Date: 2011-11-03 10:29:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/widgets.php:24
+msgid "LG Folders"
+msgstr ""
+
+#: inc/widgets.php:44 inc/widgets.php:98 inc/widgets.php:202
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:67 inc/widgets.php:273 inc/widgets.php:275
+msgid "LG Random Image"
+msgstr ""
+
+#: inc/widgets.php:107 inc/widgets.php:211
+msgid "Number of Images:"
+msgstr ""
+
+#: inc/widgets.php:116 inc/widgets.php:225 inc/manager.php:207
+#: lazyest-fields.php:100 lazyest-fields.php:117
+msgid "Folder"
+msgstr ""
+
+#: inc/widgets.php:126 inc/widgets.php:235
+msgid "(all)"
+msgstr ""
+
+#: inc/widgets.php:142 inc/widgets.php:251
+msgid "Include Sub Folders"
+msgstr ""
+
+#: inc/widgets.php:167 inc/widgets.php:281 inc/widgets.php:283
+msgid "LG Slide Show"
+msgstr ""
+
+#: inc/widgets.php:264
+msgid "A list of all your Lazyest Gallery Folders"
+msgstr ""
+
+#: inc/widgets.php:266 inc/widgets.php:268
+msgid "LG List Folders"
+msgstr ""
+
+#: inc/widgets.php:271
+msgid "Random Images from your Lazyest Gallery"
+msgstr ""
+
+#: inc/widgets.php:279
+msgid "Slide Show of Thumbnails from your Lazyest Gallery"
+msgstr ""
+
+#: inc/comments_template.php:19
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: inc/comments_template.php:30
+msgid "You should be logged in to view this page. Log in to view any comments."
+msgstr ""
+
+#: inc/comments_template.php:37
+msgid "Sorry, you are not allowed to view this item.%1sThe owner of the gallery has set access restrictions"
+msgstr ""
+
+#: inc/comments_template.php:50
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/comments_template.php:58 inc/comments_template.php:79
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: inc/comments_template.php:59 inc/comments_template.php:80
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/comments_template.php:92
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/image.php:132
+msgid "image"
+msgstr ""
+
+#: inc/media-upload.php:40
+msgid "Cannot upload images to no folder"
+msgstr ""
+
+#: inc/media-upload.php:74
+msgid "Upload New Images"
+msgstr ""
+
+#: inc/media-upload.php:92
+msgid "Uploads"
+msgstr ""
+
+#: inc/media-upload.php:92 inc/admin.php:104 inc/admin.php:113
+#: inc/admin.php:1553
+msgid "Lazyest Gallery"
+msgstr ""
+
+#: inc/media-upload.php:133
+msgid "From Computer"
+msgstr ""
+
+#: inc/admin.php:104 inc/settings.php:69
+msgid "Lazyest Gallery Settings"
+msgstr ""
+
+#: inc/admin.php:118
+msgid "Lazyest Gallery Comments"
+msgstr ""
+
+#: inc/admin.php:118 inc/admin.php:492 inc/tables.php:255 inc/tables.php:452
+#: inc/frontend.php:765 inc/settings.php:400
+msgid "Comments"
+msgstr ""
+
+#: inc/admin.php:124
+msgid "Lazyest Gallery Themes"
+msgstr ""
+
+#: inc/admin.php:124 inc/frontend.php:768
+msgid "Themes"
+msgstr ""
+
+#: inc/admin.php:241
+msgid ""
+"Are you sure you want to close this page?\n"
+"\n"
+"The Changes you made will be lost if you navigate away from this page.\n"
+"\n"
+"Click OK to continue or Cancel to stay on the current page. "
+msgstr ""
+
+#: inc/admin.php:242 inc/admin.php:1343
+msgid "Folder %s created successfully"
+msgstr ""
+
+#: inc/admin.php:243
+msgid "Viewer level updated successfully"
+msgstr ""
+
+#: inc/admin.php:248
+msgid "Rebuild Ready"
+msgstr ""
+
+#: inc/admin.php:249
+msgid "Something went wrong accessing the Gallery Database table"
+msgstr ""
+
+#: inc/admin.php:262
+msgid "not configured"
+msgstr ""
+
+#: inc/admin.php:265
+msgid "You have attempted to queue too many files."
+msgstr ""
+
+#: inc/admin.php:266
+msgid "This file is too big. The maximum upload size for your server is %s."
+msgstr ""
+
+#: inc/admin.php:267
+msgid "This file is empty. Please try another."
+msgstr ""
+
+#: inc/admin.php:268
+msgid "This file type is not allowed. Please try another."
+msgstr ""
+
+#: inc/admin.php:269
+msgid "An error occurred in the upload. Please try again later."
+msgstr ""
+
+#: inc/admin.php:270
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr ""
+
+#: inc/admin.php:271
+msgid "You may only upload 1 file."
+msgstr ""
+
+#: inc/admin.php:272
+msgid "HTTP error."
+msgstr ""
+
+#: inc/admin.php:273
+msgid "Upload failed."
+msgstr ""
+
+#: inc/admin.php:274
+msgid "IO error."
+msgstr ""
+
+#: inc/admin.php:275
+msgid "Security error."
+msgstr ""
+
+#: inc/admin.php:276
+msgid "File cancelled."
+msgstr ""
+
+#: inc/admin.php:277
+msgid "Upload stopped."
+msgstr ""
+
+#: inc/admin.php:278
+msgid "Dismiss"
+msgstr ""
+
+#: inc/admin.php:279
+msgid "Crunching..."
+msgstr ""
+
+#: inc/admin.php:280
+msgid "moved to the trash."
+msgstr ""
+
+#: inc/admin.php:281
+msgid "Ready"
+msgstr ""
+
+#: inc/admin.php:294
+msgid "Settings"
+msgstr ""
+
+#: inc/admin.php:295
+msgid "Manage"
+msgstr ""
+
+#: inc/admin.php:335
+msgid "Start building your gallery here. You have no folders in your gallery yet. Please create a folder in the %1sNew Folder box%2s"
+msgstr ""
+
+#: inc/admin.php:339
+msgid "The directory where the gallery should be, does not exist. Please go to %1ssettings%2s to create this directory"
+msgstr ""
+
+#: inc/admin.php:341
+msgid "Edit Lazyest Gallery Structure"
+msgstr ""
+
+#: inc/admin.php:341 inc/settings.php:184
+msgid "Welcome to Lazyest Gallery"
+msgstr ""
+
+#: inc/admin.php:375 inc/admin.php:503 inc/settings.php:90 inc/settings.php:764
+msgid "Save Changes"
+msgstr ""
+
+#. translators: UNIX time format string for creation date
+
+#: inc/admin.php:457 inc/manager.php:199
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/admin.php:458 inc/manager.php:200
+msgid "Created on: <b>%1$s</b>"
+msgstr ""
+
+#: inc/admin.php:463 inc/tables.php:787 inc/manager.php:444
+#: inc/comments.php:665
+msgid "Gallery"
+msgstr ""
+
+#: inc/admin.php:471
+msgid "View the Gallery"
+msgstr ""
+
+#: inc/admin.php:479
+msgid "Title"
+msgstr ""
+
+#: inc/admin.php:483 inc/admin.php:662 inc/tables.php:679 inc/manager.php:424
+msgid "Author"
+msgstr ""
+
+#: inc/admin.php:487 inc/tables.php:253
+msgid "Images"
+msgstr ""
+
+#: inc/admin.php:488 inc/ajax.php:119 inc/ajax.php:122
+msgid "%s in folders"
+msgstr ""
+
+#: inc/admin.php:525
+msgid "New Folder"
+msgstr ""
+
+#: inc/admin.php:528 inc/admin.php:529 inc/manager.php:320 inc/settings.php:607
+msgid "Add"
+msgstr ""
+
+#: inc/admin.php:583 inc/manager.php:319
+msgid "Add / Remove"
+msgstr ""
+
+#: inc/admin.php:584
+msgid "Add &raquo;"
+msgstr ""
+
+#: inc/admin.php:585
+msgid "&laquo; Remove"
+msgstr ""
+
+#: inc/admin.php:586 inc/manager.php:322 inc/manager.php:327
+#: inc/settings.php:609
+msgid "Users"
+msgstr ""
+
+#: inc/admin.php:594 inc/settings.php:640
+msgid "Administrators"
+msgstr ""
+
+#: inc/admin.php:597 inc/admin.php:607
+msgid "Editors"
+msgstr ""
+
+#: inc/admin.php:617 inc/admin.php:628 inc/manager.php:341 inc/manager.php:353
+msgid "Authors"
+msgstr ""
+
+#: inc/admin.php:657 inc/manager.php:419
+msgid "Viewers"
+msgstr ""
+
+#: inc/admin.php:660
+msgid "Minimum level to view the gallery"
+msgstr ""
+
+#: inc/admin.php:661 inc/frontend.php:1841 inc/manager.php:330
+#: inc/manager.php:423
+msgid "Editor"
+msgstr ""
+
+#: inc/admin.php:663 inc/manager.php:425
+msgid "Contributor"
+msgstr ""
+
+#: inc/admin.php:664 inc/manager.php:426
+msgid "Subscriber"
+msgstr ""
+
+#: inc/admin.php:665 inc/manager.php:416
+msgid "Viewer does not have to log on to your blog."
+msgstr ""
+
+#: inc/admin.php:665 inc/manager.php:427
+msgid "All visitors"
+msgstr ""
+
+#: inc/admin.php:666
+msgid "Update level"
+msgstr ""
+
+#: inc/admin.php:686
+msgid "You do not have permission to browse the gallery."
+msgstr ""
+
+#. translators: %1s: <strong>, %2s: folder %3s: </strong>
+
+#: inc/admin.php:720
+msgid "Lazyest Gallery cannot open folder %1s%2s%3s"
+msgstr ""
+
+#: inc/admin.php:761
+msgid "Only Blog administrators can set external upload options"
+msgstr ""
+
+#: inc/admin.php:774
+msgid "You have to provide a username! "
+msgstr ""
+
+#: inc/admin.php:781
+msgid " You have to provide a password! "
+msgstr ""
+
+#: inc/admin.php:788
+msgid "Wizard Settings successfully edited"
+msgstr ""
+
+#: inc/admin.php:794
+msgid "Microsoft Publisher Wizard Options"
+msgstr ""
+
+#: inc/admin.php:798
+msgid "It is highly recomended to change your Username and Password! "
+msgstr ""
+
+#: inc/admin.php:799
+msgid "Default Username and Passwords are:"
+msgstr ""
+
+#: inc/admin.php:801 inc/admin.php:810
+msgid "Username:"
+msgstr ""
+
+#: inc/admin.php:802 inc/admin.php:813
+msgid "Password:"
+msgstr ""
+
+#: inc/admin.php:816
+msgid "Download Registry File:"
+msgstr ""
+
+#: inc/admin.php:824
+msgid "Update options"
+msgstr ""
+
+#: inc/admin.php:978
+msgid "Changes saved to the Gallery. Continue editing below"
+msgstr ""
+
+#: inc/admin.php:978 inc/manager.php:1048
+msgid "Lazyest Gallery could not save your folders."
+msgstr ""
+
+#: inc/admin.php:990
+msgid "You are not allowed to delete Lazyest Gallery folders"
+msgstr ""
+
+#: inc/admin.php:998
+msgid "Folder deleted successfully"
+msgstr ""
+
+#: inc/admin.php:998
+msgid "Lazyest Gallery could not delete the folder"
+msgstr ""
+
+#: inc/admin.php:1097
+msgid "Cache cleared succesfully"
+msgstr ""
+
+#: inc/admin.php:1097
+msgid "Lazyest Gallery cannot clear the cache: maybe it does not exist or has bad permissions"
+msgstr ""
+
+#: inc/admin.php:1317
+msgid "Lazyest Gallery cannot create folder: maybe it already exists or have bad permissions"
+msgstr ""
+
+#: inc/admin.php:1340
+msgid "Folder %s already exists"
+msgstr ""
+
+#: inc/admin.php:1343
+msgid "Lazyest Gallery cannot create folder %s. Please check your server permissions"
+msgstr ""
+
+#. translators: 1: <strong>, 2: folder name, 3: </strong>
+
+#: inc/admin.php:1348
+msgid "Lazyest Gallery cannot use %1s%2s%3s as foldername. Please do not use characters like \\ / : * ? & \" < > | %% "
+msgstr ""
+
+#: inc/admin.php:1356
+msgid "Lazyest Gallery cannot create a folder with no name."
+msgstr ""
+
+#: inc/admin.php:1434
+msgid "You are not allowed to add users to Lazyest Gallery"
+msgstr ""
+
+#: inc/admin.php:1473
+msgid "You are not allowed to remove users from Lazyest Gallery"
+msgstr ""
+
+#: inc/admin.php:1535
+msgid "You are not allowed to change viewer levels in Lazyest Gallery"
+msgstr ""
+
+#: inc/tables.php:251 inc/pluggable.php:82 lazyest-fields.php:144
+msgid "Name"
+msgstr ""
+
+#: inc/tables.php:252 inc/tables.php:590 inc/uploadtab.php:257
+msgid "Caption"
+msgstr ""
+
+#: inc/tables.php:254 inc/manager.php:195 inc/manager.php:228
+msgid "Visible"
+msgstr ""
+
+#: inc/tables.php:256 inc/tables.php:453 inc/frontend.php:1901
+#: inc/frontend.php:1945
+msgid "Date"
+msgstr ""
+
+#: inc/tables.php:269 inc/tables.php:466
+msgid "Click to Sort"
+msgstr ""
+
+#: inc/tables.php:305 inc/tables.php:504
+msgid "Click and Hold to Drag"
+msgstr ""
+
+#: inc/tables.php:314 inc/tables.php:767 inc/themes.php:309 inc/themes.php:333
+#: inc/comments.php:837
+msgid "Edit"
+msgstr ""
+
+#: inc/tables.php:435 inc/uploadtab.php:134
+msgid "This folder is empty"
+msgstr ""
+
+#: inc/tables.php:449 lazyest-fields.php:99 lazyest-fields.php:115
+msgid "Image"
+msgstr ""
+
+#: inc/tables.php:450
+msgid "File"
+msgstr ""
+
+#: inc/tables.php:451
+msgid "Content"
+msgstr ""
+
+#: inc/tables.php:527
+msgid "'You are about to delete \\'%s\\' \\n \\'Cancel\\' to stop \\'OK\\' to delete'"
+msgstr ""
+
+#: inc/tables.php:543
+msgid "Delete Permanently"
+msgstr ""
+
+#: inc/tables.php:545
+msgid "View"
+msgstr ""
+
+#: inc/tables.php:550
+msgid "View "
+msgstr ""
+
+#: inc/tables.php:557
+msgid "Move image to top of the list"
+msgstr ""
+
+#: inc/tables.php:558
+msgid "to Top"
+msgstr ""
+
+#: inc/tables.php:562
+msgid "Move image to bottom of the list"
+msgstr ""
+
+#: inc/tables.php:563
+msgid " to Bottom"
+msgstr ""
+
+#: inc/tables.php:569 inc/tables.php:575
+msgid "Right click to select folder"
+msgstr ""
+
+#: inc/tables.php:570
+msgid "Move to"
+msgstr ""
+
+#: inc/tables.php:576
+msgid "Copy to"
+msgstr ""
+
+#: inc/tables.php:597 inc/manager.php:495 inc/manager.php:497
+msgid "Description"
+msgstr ""
+
+#: inc/tables.php:680
+msgid "Comment"
+msgstr ""
+
+#: inc/tables.php:681
+msgid "In Response To"
+msgstr ""
+
+#: inc/tables.php:750
+msgid "Submitted on <a href=\"%1$s\">%2$s - %3$s</a>"
+msgstr ""
+
+#: inc/tables.php:761
+msgid "Unapprove this comment"
+msgstr ""
+
+#: inc/tables.php:762
+msgid "Unapprove"
+msgstr ""
+
+#: inc/tables.php:766
+msgid "Edit comment"
+msgstr ""
+
+#: inc/tables.php:772
+msgid "Mark this comment as spam"
+msgstr ""
+
+#: inc/tables.php:773
+msgctxt "verb"
+msgid "Spam"
+msgstr ""
+
+#: inc/tables.php:778
+msgid "Move this comment to the trash"
+msgstr ""
+
+#: inc/tables.php:779
+msgctxt "verb"
+msgid "Trash"
+msgstr ""
+
+#: inc/tables.php:794
+msgid "Icon"
+msgstr ""
+
+#: inc/tables.php:795
+msgid "Click to View"
+msgstr ""
+
+#: inc/tables.php:829
+msgid "0 pending"
+msgstr ""
+
+#: inc/ajax.php:506
+msgid "Illegal image request"
+msgstr ""
+
+#: inc/ajax.php:599
+msgid "No folder to store the image"
+msgstr ""
+
+#: inc/themes.php:56 inc/frontend.php:1729
+msgid "Unknown"
+msgstr ""
+
+#: inc/themes.php:132 inc/settings.php:408
+msgid "Maximum Slides Width"
+msgstr ""
+
+#: inc/themes.php:133 inc/settings.php:412
+msgid "Maximum Slides Height"
+msgstr ""
+
+#: inc/themes.php:134 inc/settings.php:254
+msgid "Maximum Thumbnail Width"
+msgstr ""
+
+#: inc/themes.php:135 inc/settings.php:258
+msgid "Maximum Thumbnail Height"
+msgstr ""
+
+#: inc/themes.php:136 inc/settings.php:262
+msgid "Thumbnails per Page"
+msgstr ""
+
+#: inc/themes.php:137 inc/settings.php:268
+msgid "Folders per Page"
+msgstr ""
+
+#: inc/themes.php:138 inc/settings.php:313
+msgid "Folder Columns"
+msgstr ""
+
+#: inc/themes.php:139 inc/settings.php:319
+msgid "Thumbnail Columns"
+msgstr ""
+
+#: inc/themes.php:140 inc/themes.php:149 inc/settings.php:325
+msgid "Folder Icons"
+msgstr ""
+
+#: inc/themes.php:141 inc/settings.php:349
+msgid "Cropping"
+msgstr ""
+
+#: inc/themes.php:142
+msgid "Use image captions instead of file names "
+msgstr ""
+
+#: inc/themes.php:143
+msgid "Use folder captions instead of folder names "
+msgstr ""
+
+#: inc/themes.php:144 inc/settings.php:462
+msgid "Exif Data"
+msgstr ""
+
+#: inc/themes.php:145 inc/settings.php:523
+msgid "Length of Captions in Thumbnail View"
+msgstr ""
+
+#: inc/themes.php:146
+msgid "Thumbnail On Click"
+msgstr ""
+
+#: inc/themes.php:147
+msgid "Slide On Click"
+msgstr ""
+
+#: inc/themes.php:148 inc/settings.php:274
+msgid "Count Images"
+msgstr ""
+
+#: inc/themes.php:150 inc/settings.php:695
+msgid "The images in the Gallery should be listed as"
+msgstr ""
+
+#: inc/themes.php:151 inc/settings.php:701
+msgid "Credits"
+msgstr ""
+
+#: inc/themes.php:152
+msgid "Load Javascript"
+msgstr ""
+
+#: inc/themes.php:153
+msgid "Gallery Layout"
+msgstr ""
+
+#: inc/themes.php:203
+msgid "Lazyest Gallery will use your Blog's Theme"
+msgstr ""
+
+#: inc/themes.php:232
+msgid "New gallery theme activated."
+msgstr ""
+
+#: inc/themes.php:232
+msgid "Lazyest Gallery could not activate this theme."
+msgstr ""
+
+#. translators: 1: <a href="">, 2: </a>
+
+#: inc/themes.php:235
+msgid "This theme has changed your settings, please visit the %1sLazyest Gallery Settings%2s screen to verify them."
+msgstr ""
+
+#: inc/themes.php:253
+msgid "You do not have permission to change themes."
+msgstr ""
+
+#: inc/themes.php:269
+msgid "Lazyest Gallery cannot find your theme. Your blog's theme will be used instead"
+msgstr ""
+
+#: inc/themes.php:295
+msgid "Current Lazyest Gallery Theme"
+msgstr ""
+
+#: inc/themes.php:295
+msgid "You use your Blog Theme"
+msgstr ""
+
+#: inc/themes.php:302
+msgid "Manage Lazyest Gallery Themes"
+msgstr ""
+
+#: inc/themes.php:306
+msgid "Current theme preview"
+msgstr ""
+
+#: inc/themes.php:307
+msgid " by "
+msgstr ""
+
+#: inc/themes.php:307
+msgid "Visit author homepage"
+msgstr ""
+
+#: inc/themes.php:314
+msgid "Available Themes"
+msgstr ""
+
+#: inc/themes.php:328
+msgid "by"
+msgstr ""
+
+#: inc/themes.php:331
+msgid "Activate"
+msgstr ""
+
+#: inc/themes.php:342
+msgid "This theme will change the following settings:"
+msgstr ""
+
+#: inc/themes.php:386
+msgid "None of the above"
+msgstr ""
+
+#: inc/themes.php:387
+msgid "Use this when you have put your gallery styles into your theme stylesheet"
+msgstr ""
+
+#: inc/themes.php:401
+msgid "You do not have permission to edit themes."
+msgstr ""
+
+#: inc/themes.php:412
+msgid "Edit Theme"
+msgstr ""
+
+#. translators: 1: <a href="">, 2: </a>
+
+#: inc/themes.php:416
+msgid "You have selected to use your blog's theme for Lazyest Gallery, please use the WordPress %1sTheme Editor%2s"
+msgstr ""
+
+#: inc/themes.php:449
+msgid "File edited successfully"
+msgstr ""
+
+#: inc/themes.php:449
+msgid "Error saving file"
+msgstr ""
+
+#: inc/themes.php:454
+msgid "Lazyest Gallery cannot open Stylesheet"
+msgstr ""
+
+#: inc/themes.php:456
+msgid "Edit Lazyest Gallery Stylesheet"
+msgstr ""
+
+#: inc/themes.php:456
+msgid "Browse Lazyest Gallery Stylesheet"
+msgstr ""
+
+#: inc/themes.php:466
+msgid "Stylesheet "
+msgstr ""
+
+#: inc/themes.php:477
+msgid "Update File"
+msgstr ""
+
+#: inc/themes.php:480
+msgid "If this file were writable you could edit it."
+msgstr ""
+
+#: inc/frontend.php:234
+msgid "Searching for comment..."
+msgstr ""
+
+#: inc/frontend.php:235
+msgid "Please wait while Lazyest Gallery searches for "
+msgstr ""
+
+#: inc/frontend.php:421 inc/frontend.php:545
+msgid "Lazyest Gallery cannot access %s"
+msgstr ""
+
+#: inc/frontend.php:508
+msgid "Something went wrong initializing Lazyest Gallery."
+msgstr ""
+
+#: inc/frontend.php:509
+msgid "Maybe the folder or the image you are looking for does not exist"
+msgstr ""
+
+#: inc/frontend.php:514
+msgid "Please check your %1ssettings%2s  or contact the author of this page"
+msgstr ""
+
+#: inc/frontend.php:519
+msgid "Please contact the author of this page."
+msgstr ""
+
+#: inc/frontend.php:554
+msgid "Lazyest Gallery cannot find %s"
+msgstr ""
+
+#: inc/frontend.php:617
+msgid "the Gallery"
+msgstr ""
+
+#: inc/frontend.php:629
+msgid "Lazyest Gallery cannot find images in %s"
+msgstr ""
+
+#: inc/frontend.php:753
+msgid "Lazyest"
+msgstr ""
+
+#: inc/frontend.php:754
+msgid "Manage Gallery"
+msgstr ""
+
+#: inc/frontend.php:756
+msgid "Edit Folder"
+msgstr ""
+
+#: inc/frontend.php:762
+msgid "Edit Image"
+msgstr ""
+
+#: inc/frontend.php:770
+msgid "Gallery Settings"
+msgstr ""
+
+#: inc/frontend.php:785
+msgid "Powered by <a href=\"%s\">Lazyest Gallery %s</a> Copyright &copy; 2008-%s <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: inc/frontend.php:823
+msgid " Now viewing: "
+msgstr ""
+
+#: inc/frontend.php:931
+msgid "Folders"
+msgstr ""
+
+#: inc/frontend.php:1098
+msgid "%s page %d"
+msgstr ""
+
+#: inc/frontend.php:1106
+msgid "Index %d"
+msgstr ""
+
+#: inc/frontend.php:1544 inc/frontend.php:1646 inc/settings.php:424
+msgid "Slide Show"
+msgstr ""
+
+#: inc/frontend.php:1595
+msgid "Something went wrong displaying the slide"
+msgstr ""
+
+#: inc/frontend.php:1651
+msgid "Go to the previous slide"
+msgstr ""
+
+#: inc/frontend.php:1657
+msgid "Go to the next slide"
+msgstr ""
+
+#: inc/frontend.php:1716
+msgid "Not defined"
+msgstr ""
+
+#: inc/frontend.php:1717
+msgid "Manual"
+msgstr ""
+
+#: inc/frontend.php:1718
+msgid "Normal program"
+msgstr ""
+
+#: inc/frontend.php:1719
+msgid "Aperture priority"
+msgstr ""
+
+#: inc/frontend.php:1720
+msgid "Shutter priority"
+msgstr ""
+
+#: inc/frontend.php:1721
+msgid "Creative program (biased toward depth of field)"
+msgstr ""
+
+#: inc/frontend.php:1722
+msgid "Action program (biased toward fast shutter speed)"
+msgstr ""
+
+#: inc/frontend.php:1723
+msgid "Portrait mode (for closeup photos with the background out of focus)"
+msgstr ""
+
+#: inc/frontend.php:1724
+msgid "Landscape mode (for landscape photos with the background in focus)"
+msgstr ""
+
+#: inc/frontend.php:1730
+msgid "Average"
+msgstr ""
+
+#: inc/frontend.php:1731
+msgid "Center Weighted Average"
+msgstr ""
+
+#: inc/frontend.php:1732
+msgid "Spot"
+msgstr ""
+
+#: inc/frontend.php:1733
+msgid "MultiSpot"
+msgstr ""
+
+#: inc/frontend.php:1734
+msgid "Pattern"
+msgstr ""
+
+#: inc/frontend.php:1735
+msgid "Partial"
+msgstr ""
+
+#: inc/frontend.php:1736
+msgid "Other Metering Mode"
+msgstr ""
+
+#: inc/frontend.php:1740 inc/frontend.php:1885 inc/frontend.php:1887
+msgid "unknown"
+msgstr ""
+
+#: inc/frontend.php:1741
+msgid "Daylight"
+msgstr ""
+
+#: inc/frontend.php:1742
+msgid "Fluorescent"
+msgstr ""
+
+#: inc/frontend.php:1743
+msgid "Tungsten (incandescent light)"
+msgstr ""
+
+#: inc/frontend.php:1744 inc/frontend.php:1863
+msgid "Flash"
+msgstr ""
+
+#: inc/frontend.php:1745
+msgid "Fine weather"
+msgstr ""
+
+#: inc/frontend.php:1746
+msgid "Cloudy weather"
+msgstr ""
+
+#: inc/frontend.php:1747
+msgid "Daylight fluorescent (D 5700 – 7100K)"
+msgstr ""
+
+#: inc/frontend.php:1748
+msgid "Day white fluorescent (N 4600 – 5400K)"
+msgstr ""
+
+#: inc/frontend.php:1749
+msgid "Cool white fluorescent (W 3900 – 4500K)"
+msgstr ""
+
+#: inc/frontend.php:1750
+msgid "White fluorescent (WW 3200 – 3700K)"
+msgstr ""
+
+#: inc/frontend.php:1751
+msgid "Standard light A"
+msgstr ""
+
+#: inc/frontend.php:1752
+msgid "Standard light B"
+msgstr ""
+
+#: inc/frontend.php:1753
+msgid "Standard light C"
+msgstr ""
+
+#: inc/frontend.php:1754
+msgid "D55"
+msgstr ""
+
+#: inc/frontend.php:1755
+msgid "D65"
+msgstr ""
+
+#: inc/frontend.php:1756
+msgid "D75"
+msgstr ""
+
+#: inc/frontend.php:1757
+msgid "D50"
+msgstr ""
+
+#: inc/frontend.php:1758
+msgid "ISO studio tungsten"
+msgstr ""
+
+#: inc/frontend.php:1759
+msgid "other light source"
+msgstr ""
+
+#: inc/frontend.php:1763
+msgid "Flash did not fire."
+msgstr ""
+
+#: inc/frontend.php:1764
+msgid "Flash fired."
+msgstr ""
+
+#: inc/frontend.php:1765
+msgid "Strobe return light not detected."
+msgstr ""
+
+#: inc/frontend.php:1766
+msgid "Strobe return light detected."
+msgstr ""
+
+#: inc/frontend.php:1767
+msgid "Flash fired, compulsory flash mode"
+msgstr ""
+
+#: inc/frontend.php:1768
+msgid "Flash fired, compulsory flash mode, return light not detected"
+msgstr ""
+
+#: inc/frontend.php:1769
+msgid "Flash fired, compulsory flash mode, return light detected"
+msgstr ""
+
+#: inc/frontend.php:1770
+msgid "Flash did not fire, compulsory flash mode"
+msgstr ""
+
+#: inc/frontend.php:1771
+msgid "Flash did not fire, auto mode"
+msgstr ""
+
+#: inc/frontend.php:1772
+msgid "Flash fired, auto mode"
+msgstr ""
+
+#: inc/frontend.php:1773
+msgid "Flash fired, auto mode, return light not detected"
+msgstr ""
+
+#: inc/frontend.php:1774
+msgid "Flash fired, auto mode, return light detected"
+msgstr ""
+
+#: inc/frontend.php:1775
+msgid "No flash function"
+msgstr ""
+
+#: inc/frontend.php:1776
+msgid "Flash fired, red-eye reduction mode"
+msgstr ""
+
+#: inc/frontend.php:1777
+msgid "Flash fired, red-eye reduction mode, return light not detected"
+msgstr ""
+
+#: inc/frontend.php:1778
+msgid "Flash fired, red-eye reduction mode, return light detected"
+msgstr ""
+
+#: inc/frontend.php:1779
+msgid "Flash fired, compulsory flash mode, red-eye reduction mode"
+msgstr ""
+
+#: inc/frontend.php:1780
+msgid "Flash fired, compulsory flash mode, red-eye reduction mode, return light not detected"
+msgstr ""
+
+#: inc/frontend.php:1781
+msgid "Flash fired, compulsory flash mode, red-eye reduction mode, return light detected"
+msgstr ""
+
+#: inc/frontend.php:1782
+msgid "Flash fired, auto mode, red-eye reduction mode"
+msgstr ""
+
+#: inc/frontend.php:1783
+msgid "Flash fired, auto mode, return light not detected, red-eye reduction mode"
+msgstr ""
+
+#: inc/frontend.php:1784
+msgid "Flash fired, auto mode, return light detected, red-eye reduction mode"
+msgstr ""
+
+#: inc/frontend.php:1790
+msgid "FileName"
+msgstr ""
+
+#: inc/frontend.php:1792
+msgid "FileType"
+msgstr ""
+
+#: inc/frontend.php:1794
+msgid "MimeType"
+msgstr ""
+
+#: inc/frontend.php:1796
+msgid "FileSize"
+msgstr ""
+
+#: inc/frontend.php:1798 inc/frontend.php:1902
+msgid "FileDateTime"
+msgstr ""
+
+#: inc/frontend.php:1800
+msgid "Artist"
+msgstr ""
+
+#: inc/frontend.php:1802 inc/frontend.php:1912 inc/frontend.php:1915
+msgid "Make"
+msgstr ""
+
+#: inc/frontend.php:1804 inc/frontend.php:1912 inc/frontend.php:1915
+msgid "Model"
+msgstr ""
+
+#: inc/frontend.php:1806
+msgid "DateTime"
+msgstr ""
+
+#: inc/frontend.php:1808 inc/frontend.php:1843
+msgid "ExifVersion"
+msgstr ""
+
+#: inc/frontend.php:1810
+msgid "DateTimeOriginal"
+msgstr ""
+
+#: inc/frontend.php:1812
+msgid "DateTimeDigitized"
+msgstr ""
+
+#: inc/frontend.php:1814 inc/frontend.php:1905 inc/frontend.php:1906
+#: inc/frontend.php:1947
+msgid "Height"
+msgstr ""
+
+#: inc/frontend.php:1816 inc/frontend.php:1909 inc/frontend.php:1910
+#: inc/frontend.php:1949
+msgid "Width"
+msgstr ""
+
+#: inc/frontend.php:1818
+msgid "CompressedBitsPerPixel"
+msgstr ""
+
+#: inc/frontend.php:1818
+msgid " Bits/Pixel"
+msgstr ""
+
+#: inc/frontend.php:1819
+msgid "FocusDistance"
+msgstr ""
+
+#: inc/frontend.php:1820
+msgid "FocalLength"
+msgstr ""
+
+#: inc/frontend.php:1821
+msgid "FocalLengthIn35mmFilm"
+msgstr ""
+
+#: inc/frontend.php:1823
+msgid "ColorSpace"
+msgstr ""
+
+#: inc/frontend.php:1823
+msgid "Uncalibrated"
+msgstr ""
+
+#: inc/frontend.php:1825
+msgid "ImageDescription"
+msgstr ""
+
+#: inc/frontend.php:1827
+msgid "Orientation"
+msgstr ""
+
+#: inc/frontend.php:1829
+msgid "XResolution"
+msgstr ""
+
+#: inc/frontend.php:1831
+msgid "YResolution"
+msgstr ""
+
+#: inc/frontend.php:1833
+msgid "Software"
+msgstr ""
+
+#: inc/frontend.php:1835
+msgid "YCbCrPositioning"
+msgstr ""
+
+#: inc/frontend.php:1837
+msgid "Copyright"
+msgstr ""
+
+#: inc/frontend.php:1839
+msgid "Photographer"
+msgstr ""
+
+#: inc/frontend.php:1845
+msgid "FlashPixVersion"
+msgstr ""
+
+#: inc/frontend.php:1845
+msgid "Ver"
+msgstr ""
+
+#: inc/frontend.php:1847
+msgid "ApertureValue"
+msgstr ""
+
+#: inc/frontend.php:1849
+msgid "ShutterSpeedValue"
+msgstr ""
+
+#: inc/frontend.php:1851
+msgid "ApertureFNumber"
+msgstr ""
+
+#: inc/frontend.php:1853
+msgid "MaxApertureValue"
+msgstr ""
+
+#: inc/frontend.php:1855
+msgid "ExposureTime"
+msgstr ""
+
+#: inc/frontend.php:1857
+msgid "F-Number"
+msgstr ""
+
+#: inc/frontend.php:1859
+msgid "MeteringMode"
+msgstr ""
+
+#: inc/frontend.php:1861
+msgid "LightSource"
+msgstr ""
+
+#: inc/frontend.php:1865
+msgid "ExposureMode"
+msgstr ""
+
+#: inc/frontend.php:1865
+msgid "Manual exposure"
+msgstr ""
+
+#: inc/frontend.php:1865
+msgid "Auto exposure"
+msgstr ""
+
+#: inc/frontend.php:1867
+msgid "WhiteBalance"
+msgstr ""
+
+#: inc/frontend.php:1867
+msgid "Manual white balance"
+msgstr ""
+
+#: inc/frontend.php:1867
+msgid "Auto white balance"
+msgstr ""
+
+#: inc/frontend.php:1869
+msgid "ExposureProgram"
+msgstr ""
+
+#: inc/frontend.php:1871
+msgid "ExposureBiasValue"
+msgstr ""
+
+#: inc/frontend.php:1871
+msgid "EV"
+msgstr ""
+
+#: inc/frontend.php:1873
+msgid "ISOSpeedRatings"
+msgstr ""
+
+#: inc/frontend.php:1875
+msgid "ComponentsConfiguration"
+msgstr ""
+
+#: inc/frontend.php:1877
+msgid "UserCommentEncoding"
+msgstr ""
+
+#: inc/frontend.php:1879
+msgid "UserComment"
+msgstr ""
+
+#: inc/frontend.php:1881
+msgid "ExifImageLength"
+msgstr ""
+
+#: inc/frontend.php:1883
+msgid "ExifImageWidth"
+msgstr ""
+
+#: inc/frontend.php:1885
+msgid "FileSource"
+msgstr ""
+
+#: inc/frontend.php:1887
+msgid "SceneType"
+msgstr ""
+
+#: inc/frontend.php:1887
+msgid "A directly photographed image"
+msgstr ""
+
+#: inc/frontend.php:1889
+msgid "Thumbnail.FileType"
+msgstr ""
+
+#: inc/frontend.php:1891
+msgid "Thumbnail.MimeType"
+msgstr ""
+
+#: inc/frontend.php:1894
+msgid "Image data"
+msgstr ""
+
+#: inc/frontend.php:1914
+msgid "Camera"
+msgstr ""
+
+#: inc/frontend.php:1921
+msgid "Show all Exif data"
+msgstr ""
+
+#: inc/functions.php:113
+msgid "Loading..."
+msgstr ""
+
+#: inc/manager.php:92
+msgid "Edit Lazyest Gallery Folder "
+msgstr ""
+
+#: inc/manager.php:127
+msgid "Upload Image(s)"
+msgstr ""
+
+#: inc/manager.php:128
+msgid "Add an Image"
+msgstr ""
+
+#: inc/manager.php:129
+msgid "Add Image(s)"
+msgstr ""
+
+#: inc/manager.php:144
+msgid "List View"
+msgstr ""
+
+#: inc/manager.php:145
+msgid "Edit View"
+msgstr ""
+
+#: inc/manager.php:196 inc/manager.php:232
+msgid "Hidden"
+msgstr ""
+
+#: inc/manager.php:197 inc/manager.php:230
+msgid "Private"
+msgstr ""
+
+#: inc/manager.php:212 inc/manager.php:476
+msgid "View this Folder"
+msgstr ""
+
+#: inc/manager.php:220
+msgid "Path"
+msgstr ""
+
+#: inc/manager.php:224
+msgid "Visibility"
+msgstr ""
+
+#: inc/manager.php:245
+msgid "You are about to delete this folder and all contents and subfolders"
+msgstr ""
+
+#: inc/manager.php:245 inc/settings.php:761
+msgid "Cancel"
+msgstr ""
+
+#: inc/manager.php:245 inc/settings.php:761
+msgid " to stop, "
+msgstr ""
+
+#: inc/manager.php:245 inc/settings.php:761
+msgid " to delete."
+msgstr ""
+
+#: inc/manager.php:245
+msgid "Delete folder"
+msgstr ""
+
+#: inc/manager.php:249 inc/manager.php:547
+msgid "Update Folder"
+msgstr ""
+
+#: inc/manager.php:288
+msgid "Not selected"
+msgstr ""
+
+#: inc/manager.php:321 inc/settings.php:608
+msgid "Remove"
+msgstr ""
+
+#: inc/manager.php:390 lazyest-fields.php:137
+msgid "Extra Fields"
+msgstr ""
+
+#: inc/manager.php:422
+msgid "Minimum level to view this folder"
+msgstr ""
+
+#: inc/manager.php:444
+msgid "Go back to Manage Gallery Structure"
+msgstr ""
+
+#: inc/manager.php:450
+msgid "Manage level up"
+msgstr ""
+
+#: inc/manager.php:464
+msgid "Enter caption for folder \"%s\" here"
+msgstr ""
+
+#: inc/manager.php:491
+msgid "You may use these HTML tags and attributes: <a href=\"\"> <strong> <em> <ul> <li> <br />"
+msgstr ""
+
+#: inc/manager.php:575
+msgid "Save Gallery order"
+msgstr ""
+
+#: inc/manager.php:575
+msgid "Save changes"
+msgstr ""
+
+#: inc/manager.php:624
+msgid "You are using the Flash uploader. Problems? Try the <a href=\"%s\">Browser uploader</a> instead"
+msgstr ""
+
+#: inc/manager.php:625
+msgid "You are using the Browser uploader. Use the <a href=\"%s\">Flash uploader</a> instead"
+msgstr ""
+
+#: inc/manager.php:666
+msgid "Select Files"
+msgstr ""
+
+#: inc/manager.php:677
+msgid "Image files"
+msgstr ""
+
+#: inc/manager.php:711
+msgid "Add images from your computer"
+msgstr ""
+
+#: inc/manager.php:723
+msgid "Choose files to upload"
+msgstr ""
+
+#: inc/manager.php:725
+msgid "Cancel Upload"
+msgstr ""
+
+#: inc/manager.php:727 inc/manager.php:741
+msgid "Maximum upload file size: %d%s"
+msgstr ""
+
+#: inc/manager.php:729
+msgid "After a file has been uploaded, you can return to edit the Folder ."
+msgstr ""
+
+#: inc/manager.php:738
+msgid "Upload"
+msgstr ""
+
+#: inc/manager.php:758
+msgid "It doesn't look like you have sufficient permissions to save changes for folder %s"
+msgstr ""
+
+#: inc/manager.php:774
+msgid " File %s of type %s is not allowed"
+msgstr ""
+
+#: inc/manager.php:790
+msgid "Security check"
+msgstr ""
+
+#: inc/manager.php:801
+msgid "Please enter an image file name"
+msgstr ""
+
+#: inc/manager.php:837 inc/manager.php:927
+msgid "Couldn't upload your file to %s."
+msgstr ""
+
+#: inc/manager.php:850
+msgid "Duplicate File?"
+msgstr ""
+
+#: inc/manager.php:853
+msgid "The filename \"%s\" already exists"
+msgstr ""
+
+#: inc/manager.php:858
+msgid "Filename '%1$s' moved to '%2$s'"
+msgstr ""
+
+#: inc/manager.php:866
+msgid "Alternate name:"
+msgstr ""
+
+#: inc/manager.php:869
+msgid "Rename"
+msgstr ""
+
+#: inc/manager.php:1011 inc/manager.php:1176 inc/manager.php:1186
+msgid "You are not allowed to change Lazyest Gallery folders"
+msgstr ""
+
+#: inc/manager.php:1016
+msgid "Folder saved. Continue editing below"
+msgstr ""
+
+#: inc/manager.php:1016
+msgid "Could not save Changes. Please check your file permissions"
+msgstr ""
+
+#: inc/manager.php:1031
+msgid "You are not allowed to change Lazyest Gallery sub folders"
+msgstr ""
+
+#: inc/manager.php:1048
+msgid "Subfolders changed. Continue editing below"
+msgstr ""
+
+#: inc/manager.php:1079
+msgid "Nothing to delete"
+msgstr ""
+
+#: inc/manager.php:1096
+msgid " Image %s deleted successfully"
+msgstr ""
+
+#: inc/manager.php:1096
+msgid " Cannot delete %s, please check your server permissions"
+msgstr ""
+
+#: inc/manager.php:1100
+msgid " %s cache deleted successfully"
+msgstr ""
+
+#: inc/manager.php:1100
+msgid " Cannot delete %s cache, maybe it has already been deleted or have wrong permissions"
+msgstr ""
+
+#: inc/manager.php:1106
+msgid "%s cache deleted successfully"
+msgstr ""
+
+#: inc/manager.php:1109
+msgid "%s does not exist"
+msgstr ""
+
+#: inc/manager.php:1131
+msgid "Cannot find image or folder, please <a href=\"%s\">reload</a> this folder"
+msgstr ""
+
+#: inc/manager.php:1137
+msgid "You have insufficient permissions to copy to folder %s"
+msgstr ""
+
+#: inc/manager.php:1145
+msgid "Cannot copy, %s already exists in %s"
+msgstr ""
+
+#: inc/manager.php:1148
+msgid "Cannot copy, Something went wrong copying your image. Please check your server permissions"
+msgstr ""
+
+#: inc/manager.php:1153
+msgid "Cannot move, image is copied instead"
+msgstr ""
+
+#: inc/manager.php:1164
+msgid "%s successfully %s to %s"
+msgstr ""
+
+#: inc/manager.php:1211
+msgid "Succesfully added author(s)"
+msgstr ""
+
+#: inc/manager.php:1211
+msgid "Could not add Author(s)"
+msgstr ""
+
+#: inc/manager.php:1230
+msgid "Succesfully removed author(s)"
+msgstr ""
+
+#: inc/manager.php:1230
+msgid "Could not remove Author(s)"
+msgstr ""
+
+#: inc/settings.php:22
+msgid "You do not have permission to change these settings."
+msgstr ""
+
+#: inc/settings.php:52
+msgid "You cannot set your Gallery Folder in a WordPress directory. Folder set to default"
+msgstr ""
+
+#: inc/settings.php:132
+msgid "Create a New Page"
+msgstr ""
+
+#: inc/settings.php:180
+msgid "Main Gallery Options"
+msgstr ""
+
+#: inc/settings.php:185
+msgid "Before you can enjoy all the features of Lazyest Gallery, please enter the folder to store your images, and your blog page where you show your Gallery"
+msgstr ""
+
+#: inc/settings.php:192
+msgid "Your Gallery Folder"
+msgstr ""
+
+#: inc/settings.php:195
+msgid "Relative to the WordPress installation folder"
+msgstr ""
+
+#: inc/settings.php:201 inc/settings.php:223
+msgid "WARNING"
+msgstr ""
+
+#: inc/settings.php:201
+msgid "The specified gallery folder does not exist"
+msgstr ""
+
+#: inc/settings.php:203
+msgid "Let Lazyest Gallery create this folder for me."
+msgstr ""
+
+#: inc/settings.php:212
+msgid "Your Gallery Page"
+msgstr ""
+
+#: inc/settings.php:215
+msgid "Your blog has no pages yet, please create a page for your gallery"
+msgstr ""
+
+#: inc/settings.php:220
+msgid "The exact address where your main gallery is browsable:"
+msgstr ""
+
+#: inc/settings.php:223
+msgid "The Lazyest Gallery shortcode %s cannot be found on this page."
+msgstr ""
+
+#: inc/settings.php:250
+msgid "Thumbnail View Options"
+msgstr ""
+
+#: inc/settings.php:264 inc/settings.php:270
+msgid "Set to 0 to disable pagination."
+msgstr ""
+
+#: inc/settings.php:277
+msgid "Show number of images in folder only"
+msgstr ""
+
+#: inc/settings.php:278
+msgid "Show number of images in folder including subfolders"
+msgstr ""
+
+#: inc/settings.php:279
+msgid "Show number of images in folder and subfolders separately"
+msgstr ""
+
+#: inc/settings.php:280
+msgid "Don't show number of images in folder"
+msgstr ""
+
+#: inc/settings.php:285
+msgid "Sort Images by"
+msgstr ""
+
+#: inc/settings.php:288 inc/settings.php:302
+msgid "Name, ascending ( A &rarr; Z )"
+msgstr ""
+
+#: inc/settings.php:289 inc/settings.php:303
+msgid "Name, descending ( Z &rarr; A )"
+msgstr ""
+
+#: inc/settings.php:290 inc/settings.php:304
+msgid "Caption, ascending ( A &rarr; Z )"
+msgstr ""
+
+#: inc/settings.php:291 inc/settings.php:305
+msgid "Caption, descending ( Z &rarr; A )"
+msgstr ""
+
+#: inc/settings.php:292 inc/settings.php:306
+msgid "Date, newest first"
+msgstr ""
+
+#: inc/settings.php:293 inc/settings.php:307
+msgid "Date, oldest first"
+msgstr ""
+
+#: inc/settings.php:294 inc/settings.php:308
+msgid "Manually"
+msgstr ""
+
+#: inc/settings.php:299
+msgid "Sort Folders by"
+msgstr ""
+
+#: inc/settings.php:315 inc/settings.php:321
+msgid "Set to 0 for a maximum fill per row"
+msgstr ""
+
+#: inc/settings.php:328
+msgid "Folder icon"
+msgstr ""
+
+#: inc/settings.php:329
+msgid "Random image from folder"
+msgstr ""
+
+#: inc/settings.php:330 inc/uploadtab.php:269
+msgid "None"
+msgstr ""
+
+#: inc/settings.php:333
+msgid "Include images from sub folders"
+msgstr ""
+
+#: inc/settings.php:338 inc/settings.php:417
+msgid "Caching"
+msgstr ""
+
+#: inc/settings.php:340
+msgid " Enable thumbnail caching"
+msgstr ""
+
+#: inc/settings.php:342
+msgid " Create cached thumbnails after page has loaded in the browser"
+msgstr ""
+
+#: inc/settings.php:344
+msgid "Store cached thumbnails in sub folders named: "
+msgstr ""
+
+#: inc/settings.php:351
+msgid " Enable thumbnail cropping"
+msgstr ""
+
+#: inc/settings.php:356 inc/settings.php:434
+msgid "On Click"
+msgstr ""
+
+#: inc/settings.php:358
+msgid "Perform the following action when thumbnails are clicked:"
+msgstr ""
+
+#: inc/settings.php:360 inc/settings.php:438
+msgid "Nothing"
+msgstr ""
+
+#: inc/settings.php:361
+msgid "Show slide in slide view"
+msgstr ""
+
+#: inc/settings.php:362
+msgid "Show slide in Lightbox"
+msgstr ""
+
+#: inc/settings.php:363
+msgid "Show slide in Thickbox"
+msgstr ""
+
+#: inc/settings.php:364 inc/settings.php:439
+msgid "Show full size image"
+msgstr ""
+
+#: inc/settings.php:365
+msgid "Show full size image in Lightbox"
+msgstr ""
+
+#: inc/settings.php:366
+msgid "Show full size image in Thickbox"
+msgstr ""
+
+#: inc/settings.php:370
+msgid " (A supported Lightbox plugin was not detected.)"
+msgstr ""
+
+#: inc/settings.php:374
+msgid " (A supported Thickbox plugin was not detected.)"
+msgstr ""
+
+#: inc/settings.php:396
+msgid "Slide View Options"
+msgstr ""
+
+#: inc/settings.php:403
+msgid "Enable user comments on slides"
+msgstr ""
+
+#: inc/settings.php:419
+msgid " Enable slide caching"
+msgstr ""
+
+#: inc/settings.php:420
+msgid "Store cached slides in sub folders named: "
+msgstr ""
+
+#: inc/settings.php:426
+msgid " Enable Slide Show"
+msgstr ""
+
+#: inc/settings.php:428
+msgid "Each slide will show for: "
+msgstr ""
+
+#: inc/settings.php:428
+msgid " seconds"
+msgstr ""
+
+#: inc/settings.php:436
+msgid "Perform the following action when slides are clicked:"
+msgstr ""
+
+#: inc/settings.php:440
+msgid " Show image in pop-up window"
+msgstr ""
+
+#: inc/settings.php:441
+msgid "Show image in Lightbox"
+msgstr ""
+
+#: inc/settings.php:442
+msgid "Shhow image in Thickbox"
+msgstr ""
+
+#: inc/settings.php:446
+msgid "(A supported Lightbox plug-in was not detected.)"
+msgstr ""
+
+#: inc/settings.php:451
+msgid " (A supported Thickbox plug-in was not detected.)"
+msgstr ""
+
+#: inc/settings.php:466
+msgid "Display image Exif data"
+msgstr ""
+
+#: inc/settings.php:491
+msgid "Caption Options"
+msgstr ""
+
+#: inc/settings.php:498
+msgid "Use image captions instead of file names"
+msgstr ""
+
+#: inc/settings.php:507
+msgid "Use folder captions instead of folder names"
+msgstr ""
+
+#: inc/settings.php:516
+msgid "Show descriptions in thumbnail view"
+msgstr ""
+
+#: inc/settings.php:525
+msgid "characters"
+msgstr ""
+
+#: inc/settings.php:529
+msgid "Set to -1 to disable captions in thumbnail view."
+msgstr ""
+
+#: inc/settings.php:530
+msgid "Set to  0 to disable cropping of captions text in thumbnail view."
+msgstr ""
+
+#: inc/settings.php:531
+msgid "Disable captions will also disable descriptions in thumbnail view."
+msgstr ""
+
+#: inc/settings.php:550
+msgid "Upload Options"
+msgstr ""
+
+#: inc/settings.php:552
+msgid "These settings only affect the Lazyest Gallery image upload forms, not the standard WordPress uploader."
+msgstr ""
+
+#: inc/settings.php:557
+msgid "Allowed File Extensions"
+msgstr ""
+
+#: inc/settings.php:559
+msgid "Recommended: %sjpg jpeg gif png%s. Separate extensions by spaces (\" \")."
+msgstr ""
+
+#: inc/settings.php:563
+msgid "Enable Flash Uploader"
+msgstr ""
+
+#: inc/settings.php:566
+msgid "Use the Adobe Flash Player to upload multiple images at once."
+msgstr ""
+
+#: inc/settings.php:570
+msgid "Auto Read Image Data"
+msgstr ""
+
+#: inc/settings.php:573
+msgid "Read image meta data for newly add images"
+msgstr ""
+
+#: inc/settings.php:577
+msgid "Enable Web Publishing Wizard Support"
+msgstr ""
+
+#: inc/settings.php:580
+msgid "Note: This feature is only supported for use with Microsoft Windows XP."
+msgstr ""
+
+#: inc/settings.php:588
+msgid "Upload Wizard Settings"
+msgstr ""
+
+#: inc/settings.php:625
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/settings.php:629
+msgid "Lazyest Gallery Administrators"
+msgstr ""
+
+#: inc/settings.php:648
+msgid "Blog Administrators are Lazyest Gallery Administrators by default"
+msgstr ""
+
+#: inc/settings.php:652
+msgid "Use Permalinks for the Gallery"
+msgstr ""
+
+#: inc/settings.php:655
+msgid "Enable this to show Gallery Folders as subpages of your Gallery Page."
+msgstr ""
+
+#: inc/settings.php:659
+msgid "Use Canonical links"
+msgstr ""
+
+#: inc/settings.php:662
+msgid "Enable this to add a canonical link for the gallery in your page header."
+msgstr ""
+
+#: inc/settings.php:663
+msgid "This could interfere with SEO plugins. Please read %smore about canonical links%s"
+msgstr ""
+
+#: inc/settings.php:667
+msgid "Append Gallery to Wordpress search results"
+msgstr ""
+
+#: inc/settings.php:670
+msgid "Enable this to show Gallery Folders and Images in the Wordpress search results."
+msgstr ""
+
+#: inc/settings.php:674
+msgid "Excluded Folders"
+msgstr ""
+
+#: inc/settings.php:677
+msgid "List folders to exclude from the gallery.  Separate folders with commas (\",\") while omitting spaces."
+msgstr ""
+
+#: inc/settings.php:681
+msgid "Image Resampling Quality"
+msgstr ""
+
+#: inc/settings.php:684
+msgid "Valid settings range from 0 (low quality) to 100 (best quality).  This setting only applies to JPEG files."
+msgstr ""
+
+#: inc/settings.php:688
+msgid "Shortcode links to Gallery"
+msgstr ""
+
+#: inc/settings.php:691
+msgid "Enable this to jump to the Gallery after a user clicks on an folder shortcode in a post."
+msgstr ""
+
+#: inc/settings.php:704
+msgid "Enable this to support Lazyest Gallery by showing the \"Powered by Lazyest Gallery\" banner below your gallery"
+msgstr ""
+
+#: inc/settings.php:708
+msgid "Do not check Memory before creating images"
+msgstr ""
+
+#: inc/settings.php:711
+msgid "Enable this to skip the memory check. Warning, this could crash your gallery."
+msgstr ""
+
+#: inc/settings.php:715
+msgid "Use <table> element for gallery layout"
+msgstr ""
+
+#: inc/settings.php:718
+msgid "Enable this to use a <table> element to display the gallery as in previous Lazyest Gallery versions."
+msgstr ""
+
+#: inc/settings.php:722
+msgid "Use AJAX to refresh thumbnail pages"
+msgstr ""
+
+#: inc/settings.php:725
+msgid "Enable this to refresh the gallery without refreshing the whole page"
+msgstr ""
+
+#: inc/settings.php:726
+msgid "Warning: This will stop lightbox or thickbox on secondary pages"
+msgstr ""
+
+#: inc/settings.php:739
+msgid "Utility functions"
+msgstr ""
+
+#: inc/settings.php:745
+msgid "Create missing thumbs and slides for your gallery"
+msgstr ""
+
+#: inc/settings.php:745
+msgid "Fill up Cache"
+msgstr ""
+
+#: inc/settings.php:749
+msgid "Clear thumbs and slides from your gallery"
+msgstr ""
+
+#: inc/settings.php:749
+msgid "Clear Cache"
+msgstr ""
+
+#: inc/settings.php:754
+msgid "Insert Images paths into the WordPress database"
+msgstr ""
+
+#: inc/settings.php:754
+msgid "Build Links Database"
+msgstr ""
+
+#: inc/settings.php:756
+msgid "Use this function if you see an increase in loading time for your comments."
+msgstr ""
+
+#: inc/settings.php:761
+msgid "You are about to Reset all Options."
+msgstr ""
+
+#: inc/settings.php:761
+msgid "Reset all options to their default values."
+msgstr ""
+
+#: inc/settings.php:761
+msgid "Reset Options"
+msgstr ""
+
+#: inc/settings.php:777
+msgid "About Lazyest Gallery"
+msgstr ""
+
+#: inc/settings.php:781
+msgid "Version"
+msgstr ""
+
+#: inc/settings.php:785
+msgid "Plugin Homepage"
+msgstr ""
+
+#: inc/settings.php:786
+msgid "User Guide"
+msgstr ""
+
+#: inc/settings.php:787
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: inc/settings.php:788
+msgid "Suggest a Feature"
+msgstr ""
+
+#: inc/settings.php:789
+msgid "Lazyest Gallery News"
+msgstr ""
+
+#: inc/settings.php:790
+msgid "WordPress Forum"
+msgstr ""
+
+#: inc/settings.php:793
+msgid "Donate with PayPal"
+msgstr ""
+
+#: inc/pluggable.php:28
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/pluggable.php:47
+msgid "Pingback:"
+msgstr ""
+
+#: inc/pluggable.php:47 inc/comments.php:806
+msgid "(Edit)"
+msgstr ""
+
+#: inc/pluggable.php:84
+msgid "Email"
+msgstr ""
+
+#: inc/pluggable.php:86
+msgid "Website"
+msgstr ""
+
+#: inc/pluggable.php:90
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: inc/pluggable.php:93
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: inc/pluggable.php:94
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/pluggable.php:95
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: inc/pluggable.php:96
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/pluggable.php:97
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#: inc/pluggable.php:100
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/pluggable.php:101
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/pluggable.php:102
+msgid "Cancel reply"
+msgstr ""
+
+#: inc/pluggable.php:103
+msgid "Post Comment"
+msgstr ""
+
+#: inc/comments.php:659
+msgid "Successfully updated your comments"
+msgstr ""
+
+#: inc/comments.php:670
+msgid "Folder "
+msgstr ""
+
+#: inc/comments.php:676
+msgid "Image "
+msgstr ""
+
+#: inc/comments.php:680
+msgid "Gallery, Folders and Images"
+msgstr ""
+
+#: inc/comments.php:686
+msgid "Comments on"
+msgstr ""
+
+#. translators: 1: <a href="">, 2: </a>
+
+#: inc/comments.php:784
+msgid "Lazyest Gallery could not update your comments. %1sPlease try again%2s"
+msgstr ""
+
+#. translators: 1: date, 2: time
+
+#: inc/comments.php:806 inc/comments.php:833
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. translators: 1: comment author, 2: date and time
+
+#: inc/comments.php:827
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: inc/comments.php:846
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/folder.php:839
+msgid "(%s Images)"
+msgstr ""
+
+#: inc/uploadtab.php:34
+msgid "Insert folder shortcode"
+msgstr ""
+
+#: inc/uploadtab.php:34 inc/uploadtab.php:64
+msgid "Insert"
+msgstr ""
+
+#: inc/uploadtab.php:35
+msgid "Select an image"
+msgstr ""
+
+#: inc/uploadtab.php:35
+msgid "Show"
+msgstr ""
+
+#: inc/uploadtab.php:41
+msgid "Show all folders"
+msgstr ""
+
+#: inc/uploadtab.php:41 inc/uploadtab.php:67
+msgid "Back"
+msgstr ""
+
+#: inc/uploadtab.php:64
+msgid "Insert image shortcode"
+msgstr ""
+
+#: inc/uploadtab.php:67
+msgid "Show all images in this folder"
+msgstr ""
+
+#: inc/uploadtab.php:84
+msgid "Lazyest Gallery is empty"
+msgstr ""
+
+#: inc/uploadtab.php:100 inc/uploadtab.php:188
+msgid "Add media from Lazyest Gallery"
+msgstr ""
+
+#: inc/uploadtab.php:128 inc/uploadtab.php:318
+msgid "Error opening folder"
+msgstr ""
+
+#: inc/uploadtab.php:227
+msgid "Error retrieving image"
+msgstr ""
+
+#: inc/uploadtab.php:248
+msgid "File name:"
+msgstr ""
+
+#: inc/uploadtab.php:249
+msgid "File type:"
+msgstr ""
+
+#: inc/uploadtab.php:250
+msgid "Date:"
+msgstr ""
+
+#: inc/uploadtab.php:251
+msgid "Dimensions:"
+msgstr ""
+
+#: inc/uploadtab.php:266
+msgid "Alignment"
+msgstr ""
+
+#: inc/uploadtab.php:270
+msgid "Left"
+msgstr ""
+
+#: inc/uploadtab.php:271
+msgid "Center"
+msgstr ""
+
+#: inc/uploadtab.php:272
+msgid "Right"
+msgstr ""
+
+#: inc/uploadtab.php:278
+msgid "Size"
+msgstr ""
+
+#: inc/uploadtab.php:284
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/uploadtab.php:288
+msgid "Slide"
+msgstr ""
+
+#: inc/uploadtab.php:292
+msgid "Full Size"
+msgstr ""
+
+#: inc/uploadtab.php:299
+msgid "Insert a Lazyest Gallery shortcode"
+msgstr ""
+
+#: inc/uploadtab.php:299 inc/uploadtab.php:354
+msgid "Insert as shortcode"
+msgstr ""
+
+#: inc/uploadtab.php:323 inc/uploadtab.php:327
+msgid "Default"
+msgstr ""
+
+#: inc/uploadtab.php:336
+msgid "Folder shortcode"
+msgstr ""
+
+#: inc/uploadtab.php:340
+msgid "Number of images"
+msgstr ""
+
+#: inc/uploadtab.php:344
+msgid "Number of columns"
+msgstr ""
+
+#: inc/uploadtab.php:348
+msgid "Add pagination"
+msgstr ""
+
+#: inc/uploadtab.php:355
+msgid "Insert as slide show"
+msgstr ""
+
+#: lazyest-fields.php:139
+msgid "Enter your own fields to be stored along with your Folders or Images."
+msgstr ""
+
+#: lazyest-fields.php:145
+msgid "Display Name"
+msgstr ""
+
+#: lazyest-fields.php:146
+msgid "Type"
+msgstr ""
+
+#: lazyest-fields.php:147
+msgid "Editable"
+msgstr ""
+
+#: lazyest-gallery.php:941
+msgid "Lazyest Gallery Administrator"
+msgstr ""
+
+#: lazyest-gallery.php:942
+msgid "Lazyest Gallery Editor"
+msgstr ""
+
+#: lazyest-gallery.php:943
+msgid "Lazyest Gallery Author"
+msgstr ""
+
+#: lazyest-gallery.php:980
+msgid "Please log in or register to view the gallery."
+msgstr ""
+
+#: lazyest-gallery.php:982
+msgid "Sorry, you are not allowed to view this item. The owner of this gallery has set access restrictions."
+msgstr ""
+
+#: lazyest-gallery.php:1549
+msgid "Displaying %s-%s of"
+msgstr ""
+
+#: lazyest-gallery.php:1557
+msgid "Go to the first page"
+msgstr ""
+
+#: lazyest-gallery.php:1564
+msgid "Go to the previous page"
+msgstr ""
+
+#: lazyest-gallery.php:1572 lazyest-gallery.php:1580
+msgid "Page"
+msgstr ""
+
+#: lazyest-gallery.php:1573 lazyest-gallery.php:1581
+msgid "Current page"
+msgstr ""
+
+#: lazyest-gallery.php:1586
+msgid "%s of %s"
+msgstr ""
+
+#: lazyest-gallery.php:1590
+msgid "Go to the next page"
+msgstr ""
+
+#: lazyest-gallery.php:1597
+msgid "Go to the last page"
+msgstr ""
+
+#: lazyest-popup.php:66
+msgid "Click to close"
+msgstr ""
+
+#: lazyest-wizard.php:481
+msgid "Hey!  don't try to cheat! "
+msgstr ""
+
+#: uninstall.php:51
+msgid "Lazyest Gallery could not uninstall. One or more items could not be removed."
+msgstr ""
+
+#: uninstall.php:70
+msgid " Could not clear your thumbnails and/or slides cache"
+msgstr ""
+
+#: uninstall.php:92
+msgid "Could not remove folder and image data in captions.xml"
+msgstr ""
+
+#: uninstall.php:112
+msgid "Could not remove comment meta from %s"
+msgstr ""
+
+#: uninstall.php:128
+msgid "Could not remove table %s from the WordPress database"
+msgstr ""
+

@@ -1,0 +1,8 @@
+/* Ace Gallery */
+/* contains all styles for ajax loading */
+
+.thumbs_loading a img {
+  opacity: 0.3;
+  filter:alpha(opacity=30);
+  -moz-opacity:0.3;
+}

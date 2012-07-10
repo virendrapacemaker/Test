@@ -1,0 +1,50 @@
+/*
+Ace Gallery Theme  
+Theme Name: Glow in Black
+Theme URI: http://www.brimosoft.nl/ace/
+Description: Gallery on black background with nice hovering highlight effects. Works best with css 3 capable browser
+Version: 1.0
+Author: Marcel Brinkkemper
+Author URI: http://askchrisedwards.com/
+Copyright: Copyright (C) 2008-2010 Christopher http://askchrisedwards.com
+Required Settings: thumbwidth=150;thumbheight=150;thumbs_columns=0;folders_columns=0;use_cropping=TRUE;titles_length=0;table_layout=FALSE;
+Comment: This file gets renewed each time you update Ace Gallery. Please add new styles to your own stylesheet
+*/
+.ace_gallery{background:#000;font-size:80%;color:#ccc;padding:10px;}
+ .ace_gallery a,.ace_gallery a:visited{color:#fff;text-decoration:none;}
+ .ace_gallery a:hover,.ace_gallery a:active{text-decoration:underline;}
+ .ace_gallery ul.acef-list,.ace_gallery ul.acei-list{margin:0;padding:0;}
+ .ace_gallery ul.acef-list li.acef-item,.ace_gallery ul.acei-list li.acei-item{list-style-type:none;display:inline-block;position:relative;text-align:center;vertical-align:top;}
+ .ace_thumb a{text-decoration:none;}
+ .ace_thumb img{border:none;filter:alpha(opacity=70);-moz-opacity:0.7;-khtml-opacity:0.7;opacity:0.7;}
+ .ace_thumb img:hover{border:none;filter:alpha(opacity=100);-moz-opacity:1.0;-khtml-opacity:1.0;opacity:1.0;-webkit-box-shadow:0 0 15px #fff;-moz-box-shadow:0 0 15px #fff;box-shadow:0 0 15px #fff;}
+ .ace_thumb_title{overflow:hidden;padding:0 2px;}
+ .ace_gallery .folders{margin:6px 0;}
+ .ace_gallery .dir_view{position:relative;}
+ .ace_gallery .folder{text-align:left;padding:5px 5px 20px;}
+ .ace_gallery a.fldrimg{text-decoration:none;}
+ .ace_gallery a.fldrimg img{margin-left:auto;margin-right:auto;filter:alpha(opacity=70);-moz-opacity:0.7;-khtml-opacity:0.7;opacity:0.7;}
+ .ace_gallery a.fldrimg img:hover{margin-left:auto;margin-right:auto;filter:alpha(opacity=100);-moz-opacity:1.0;-khtml-opacity:1.0;opacity:1.0;-webkit-box-shadow:0 0 15px #fff;-moz-box-shadow:0 0 15px #fff;box-shadow:0 0 15px #fff;}
+ .folder_pagination,.image_pagination{display:block;font-size:smaller;padding:4px;}
+ .ace_navigator{display:block;margin:0 auto;}
+ a.ace_slideshow_button,a.ace_slideshow_button:hover,a.ace_slideshow_button:visited{background-color:#ddd;border-radius:5px 5px 5px 5px;-moz-border-radius:5px;border:1px solid gray;font-size:100%;color:#000;text-decoration:none;margin:2px;padding:2px 4px;}
+ .tablenav-pages{float:right;}
+ .tablenav-pages a,.tablenav-pages a:hover,.tablenav-pages a:visited{color:#000;text-decoration:none;}
+ .tablenav-pages .displaying-num{margin-right:12px;}
+ .tablenav-pages a.next-page,.tablenav-pages a.last-page,.tablenav-pages a.first-page,.tablenav-pages a.prev-page{background-color:#ddd;border-radius:5px 5px 5px 5px;-moz-border-radius:5px;border:1px solid gray;font-size:100%;margin:2px;padding:2px 4px;}
+ .ace_gallery .ace_thumb_view{position:relative;}
+ .ace_gallery .ace_thumb_view .ace_thumb .ace_thumb_image img.thumb{margin:6px;}
+ .ace_gallery a.ace_slideshow_button,.ace_gallery a.ace_slideshow_button:hover,.ace_gallery a.ace_slideshow_button:visited{text-decoration:none;}
+ .ace_gallery .ace_image{margin-top:20px;text-align:center;}
+ .ace_gallery .ace_image img.ace_slide{margin:0 auto;}
+ .ace_gallery .ace_image .description{font-size:smaller;text-align:left;}
+ .ace_gallery .imagedata{margin:0 auto;padding:3px 3px 15px 20px;}
+ .ace_gallery .imagedatatable tr th,.ace_gallery .imagedatatable tr td{text-align:left;vertical-align:top;padding:1px 1px 1px 5px;}
+ #all_exif{text-align:left;display:none;}
+ .ace_gallery .ace_powered .acepow{font-size:xx-small;text-align:right;padding:3px 20px 3px 3px;}
+ .ace_image{margin:8px;padding:8px;}
+ .thumb_title{text-align:center;}
+ .ace_gallery .ace_admin{text-align:left;font-size:small;padding:3px;}
+ .ace_sidebox{text-align:center;padding:2px;}
+ .ace_sidebox img.thumb{vertical-align:middle;padding:2px;}
+

@@ -1,0 +1,43 @@
+/*
+Ace Gallery Theme
+Theme Name: Ace Gallery Classic Style Sheet
+Theme URI: http://www.brimosoft.nl/ace/
+Description: Minimal styling applied. This stylesheet was used in versions prior to 1.1.
+Version: 1.0
+Author: Marcel Brinkkemper
+Author URI: http://askchrisedwards.com/
+Copyright: Copyright (C) 2008-2010 Christopher http://askchrisedwards.com
+Required Settings: none
+Comment: This stylesheet matches Ace Gallery 1.0 and earlier.
+*/
+.ace_gallery table{text-align:center;border:none;margin:0 auto;}
+ .ace_gallery table tr{border:none;}
+ .ace_gallery table tr td{vertical-align:top;padding-bottom:8px;border:none;}
+ .ace_gallery table tr td .ace_thumb a{text-decoration:none;}
+ .ace_gallery table tr td .ace_thumb img{border:none;}
+ .ace_gallery table tr td .ace_thumb_title{overflow:hidden;padding:0 2px;}
+ .ace_gallery .folders{margin:6px 0;}
+ .ace_gallery table.dir_view tr td{vertical-align:top;padding-bottom:8px;border:none;}
+ .ace_gallery table.dirview tr td.folder{text-align:left;padding:5px 5px 20px;}
+ .ace_gallery table.dirview tr td .ace_thumb a.fldrimg{text-decoration:none;}
+ .folder_pagination,.image_pagination{display:block;font-size:smaller;padding:4px;}
+ .ace_navigator{display:block;margin:0 auto;}
+ a.ace_slideshow_button,a.ace_slideshow_button:hover,a.ace_slideshow_button:visited{background-color:#ddd;border-radius:5px 5px 5px 5px;-moz-border-radius:5px;border:1px solid gray;font-size:100%;color:#000;text-decoration:none;margin:2px;padding:2px 4px;}
+ .tablenav-pages{float:right;}
+ .tablenav-pages a,.tablenav-pages a:hover,.tablenav-pages a:visited{color:#000;text-decoration:none;}
+ .tablenav-pages .displaying-num{margin-right:12px;}
+ .tablenav-pages a.next-page,.tablenav-pages a.last-page,.tablenav-pages a.first-page,.tablenav-pages a.prev-page{background-color:#ddd;border-radius:5px 5px 5px 5px;-moz-border-radius:5px;border:1px solid gray;font-size:100%;margin:2px;padding:2px 4px;}
+ .ace_gallery table.ace_thumb_view tr td .ace_thumb .ace_thumb_image img.thumb{margin:6px;padding:3px;}
+ .ace_gallery a.ace_slideshow_button,.ace_gallery a.ace_slideshow_button:hover,.ace_gallery a.ace_slideshow_button:visited{text-decoration:none;}
+ .ace_gallery .ace_image{margin-top:20px;text-align:center;}
+ .ace_gallery .ace_image img.ace_slide{margin:0 auto;}
+ .ace_gallery .ace_image .description{font-size:smaller;text-align:left;}
+ .ace_gallery .imagedata{margin:0 auto;padding:3px 3px 15px 20px;}
+ .ace_gallery .imagedatatable tr th,.ace_gallery .imagedatatable tr td{text-align:left;vertical-align:top;padding:1px 1px 1px 5px;}
+ #all_exif{text-align:left;display:none;}
+ .ace_gallery .ace_powered .acepow{font-size:xx-small;text-align:right;padding:3px 20px 3px 3px;}
+ .ace_image{margin:8px;padding:8px;}
+ .thumb_title{text-align:center;}
+ .ace_gallery .ace_admin{text-align:left;font-size:small;padding:3px;}
+ .ace_sidebox{text-align:center;padding:2px;}
+ .ace_sidebox img.thumb{vertical-align:middle;padding:2px;}

@@ -1,0 +1,46 @@
+/* Ace Gallery
+ * Slide Show related styling 
+ */
+ 
+.ace_slideshow {
+	position:relative;
+  margin: 10px auto;
+}
+
+.ace_slideshow a {
+	float:left;  
+	position:absolute; 
+  visibility:hidden;
+}
+
+.ace_slideshow a img {
+	border:none;
+  margin: 0;
+}
+
+.ace_slideshow a.show {
+	z-index:50
+}
+
+.ace_slideshow .sstitle {
+	z-index:100; 
+	background-color:#000; 
+	color:#ffffff; 
+	height:100px; 
+	position:absolute;
+  overflow: hidden;
+}
+
+.ace_slideshow .sstitle h3 {
+	color:#ffffff !important;  
+  font-size: 1em;
+  font-weight:bold;
+  margin: 5px 5px 0 5px;
+  padding: 3px;
+}
+
+.ace_slideshow .sstitle p {
+	color:#ffffff;  
+  font-size: 1em;
+  margin: 5px;
+}

@@ -1,0 +1,382 @@
+/*
+Ace Gallery Theme
+Theme Name: Ace Gallery Default Style Sheet
+Theme URI: http://www.brimosoft.nl/ace/
+Description: Minimal styling applied, default style sheet. Use this style sheet as a reference to create your own.
+Version: 1.0
+Author: Marcel Brinkkemper
+Author URI: http://askchrisedwards.com/
+Copyright: Copyright (C) 2008-2010 Christopher http://askchrisedwards.com
+Required Settings: none
+Comment: This file gets renewed each time you update Ace Gallery. Please add new styles to your own stylesheet. Use this as a refrence for id and class names
+*/
+
+/* the gallery */
+.ace_gallery { 
+}
+
+/* the top navigator ( Now Viewing... ) */
+.ace_gallery .top_navigator {
+}
+
+.ace_gallery ul.acef-list, .ace_gallery ul.acei-list {
+  margin:0;
+  padding:0;
+}
+
+.ace_gallery ul.acef-list li.acef-item, .ace_gallery ul.acei-list li.acei-item {
+  list-style-type: none;
+  display: inline-block;
+  position:relative;
+  vertical-align: top;
+}
+
+/* the gallery tables */
+.ace_gallery table {
+ 	margin: 0 auto;
+ 	text-align: center;
+  border:none;
+}  
+  /* table rows */
+  .ace_gallery table tr {
+    border: none ;
+  }
+
+  /* table cells */
+  .ace_gallery table tr td {
+  	vertical-align:top;
+    border: none;
+  }
+  
+/* thumbnail views ----------------------------------------------------------*/  
+  
+  /* holds the thumbnail and title */
+  .ace_thumb {
+  }
+  
+  /* the thumbnail image anchor */
+  .ace_thumb a {
+    text-decoration:none;
+  }  
+  
+  /* the thumbnail image */
+  .ace_thumb img {
+    border:none;
+  }  
+  
+  /* holds the title  */
+  .ace_thumb_title {
+    overflow:hidden;
+    padding:0 2px;
+  }
+  
+/* show the link to previous page */
+.ace_gallery span.prev {  
+}
+
+/* show the pages (numbers) */
+.ace_gallery span.pages {  
+}
+
+/* show the link to other pages */
+.ace_gallery span.pages a {
+}
+
+/* show the link to next page */
+.ace_gallery span.next {  
+}
+
+/* where the folders are listed */
+.ace_gallery .folders {
+	margin: 6px 0;
+}
+
+/* the link to start the slide show */
+.ace_slideshow_button {  
+}
+
+  /* directory listing */
+  .ace_gallery .dir_view {
+    position:  relative;
+  }
+  
+  /* where the folder icon and title is shown */
+  .ace_gallery .folder {
+  	text-align: left;
+  	padding: 5px;
+  	padding-bottom: 20px;
+  }
+  
+  /* the filing cabinet icon */
+  .ace_gallery .ace_folders_img {
+    /* uncomment below to hide the icon */
+    /* display:none; */
+  }
+  
+  /* holds the thumbnail and title in the folder table */
+  .ace_gallery .dirview .ace_thumb {
+  }
+  
+  /* hold the folder thumbnail image */
+  .ace_folder_thumb_image {
+  }
+  
+  /* the link anchor for the thumbnail */
+  .ace_gallery a.fldrimg {
+    text-decoration: none;
+  }
+  
+  /* the folder thumbnail image */
+  .ace_gallery .dirview .ace_thumb img {
+  }
+  
+  /* the folder thumbnail is a random image */
+  .ace_gallery .dirview .ace_thumb img.random_image {
+  }
+  
+  /* holds the folder title and number of images */
+  .ace_gallery .dirview .ace_thumb_title {
+  }
+  
+  /* holds the title text */
+  .ace_gallery span.fldrtitle {  
+  }
+  
+/* pagination */
+  
+  .folder_pagination, .image_pagination {
+    padding: 4px;
+    display:block;
+    font-size:smaller;
+  }
+  
+  .ace_navigator {
+    display: block;
+    margin:  0 auto;
+  }
+  
+  
+  /* the link below the thumbnails to start the slide show */
+	.thumb_images div.buttons {
+		width: 25%;
+		float:left;
+	}
+	  
+  a.ace_slideshow_button, 
+  a.ace_slideshow_button:hover,
+  a.ace_slideshow_button:visited {   
+    background-color: #dddddd;
+    padding: 2px 4px;
+    margin:  2px;
+    border-radius:5px 5px 5px 5px;
+    -moz-border-radius:5px 5px 5px 5px;
+    border: 1px solid gray;
+    font-size: 100%;  
+    color: black;
+    text-decoration: none;
+  }
+  
+  .tablenav-pages {
+    float: right;
+  }
+  
+ 
+  .tablenav-pages a, .tablenav-pages a:hover, .tablenav-pages a:visited {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .tablenav-pages .displaying-num {
+    margin-right: 12px;
+  }
+  
+  .tablenav-pages a.next-page, 
+  .tablenav-pages a.last-page,
+  .tablenav-pages a.first-page,
+  .tablenav-pages a.prev-page {
+    background-color: #dddddd;
+    padding: 2px 4px;
+    margin:  2px;
+    border-radius:5px 5px 5px 5px;
+    -moz-border-radius:5px 5px 5px 5px;
+    border: 1px solid gray;
+    font-size: 100%;
+  }
+  
+/* where the images are listed */
+.ace_gallery .ace_thumb_view {  
+  position: relative;
+}
+
+  /* holds the folder title above the images element */
+  .ace_gallery .ace_thumbview .folder_title {    
+  }
+  
+  /* the actual folder title above the images element */
+  .ace_gallery .ace_thumbview .folder_title h3 {    
+  }
+  
+  /* the element holding the image thumbnails */
+  .ace_gallery .ace_thumb_view{    
+  }
+   
+  /* holds the thumbnail and title in the images element */
+  .ace_gallery .ace_thumb_view .ace_thumb {
+  }
+  
+  /* hold the image thumbnail */
+  .ace_gallery .ace_thumb_view .ace_thumb .ace_thumb_image {
+  }
+  
+  /* the image thumbnail anvhor */
+  .ace_gallery .ace_thumb_view .ace_thumb .ace_thumb_image a{
+  }
+  
+  /* the actual image thumbnail */
+  .ace_gallery .ace_thumb_view .ace_thumb .ace_thumb_image img.thumb{
+    padding: 3px;
+  	margin: 6px;
+  }
+  
+  /* the link below the thumbnails to start the slide show */  
+  .ace_gallery a.ace_slideshow_button, 
+  .ace_gallery a.ace_slideshow_button:hover,
+  .ace_gallery a.ace_slideshow_button:visited {
+    text-decoration: none;
+  }
+  
+/* slide views --------------------------------------------------------------*/
+
+
+  /* holds the slide view */
+  .ace_gallery .ace_image {
+    margin-top:20px;
+    text-align: center;
+  }
+  
+  /* the actual slide */
+  .ace_gallery .ace_image img.ace_slide {
+    margin:0 auto;
+  }
+  
+  .ace_gallery .ace_image .description {
+    font-size:smaller;
+	  text-align:left;
+  }
+
+  /* holds the exif data */
+  .ace_gallery .imagedata {
+  	margin: 0px auto;
+  	padding: 3px;
+  	padding-bottom: 15px;
+  	padding-left: 20px;
+  }
+
+  /* the exif data table header cells */
+  .ace_gallery .imagedatatable tr th, .ace_gallery .imagedatatable tr td {
+    text-align: left;
+  	vertical-align: top;
+  	padding: 1px;
+  	padding-left: 5px;
+  }
+
+  /* all the exif data initially hidden */
+  #all_exif {
+    text-align: left;
+  	display:none; 
+  }   
+  
+/* credits ------------------------------------------------------------------*/  
+
+/* holds the credits message, can be switched on and off in ace gallery settings (default off)) */  
+.ace_gallery .ace_powered {
+}
+
+  /* the actual credits message */
+  .ace_gallery .ace_powered .acepow {
+  	font-size:xx-small;
+  	padding:3px;
+  	padding-right: 20px;
+  	text-align: right;
+} 
+
+/* posts --------------------------------------------------------------------*/
+
+/* holds the image in a post */
+.ace_image {
+	padding:8px;
+	margin:8px;
+}
+
+  /* the the link from the image in a post */
+  .ace_image a.ace {    
+  }
+  
+  /* the title for the image in a post */
+  .thumb_title {
+  text-align:center;
+  }
+
+
+
+/* -- admin links -----------------------------------------------------------*/
+
+.ace_gallery .ace_admin {
+	padding: 3px;
+	text-align: left;
+	font-size: small;
+}
+
+/* side bar -----------------------------------------------------------------*/
+
+/* widget holds the random images */
+li.ace_random_image {
+}
+
+/* holds the random images */
+.ace_sidebox {
+	padding: 2px;
+	text-align:center;
+}
+  /* holds a single random image */
+  .ace_sidebox p.ace_thumb_image {
+  }
+
+  /* the random image */
+  .ace_sidebox img.thumb {
+  	vertical-align:middle;
+  	padding:2px;
+  }
+  
+/* holds the folder listing */  
+li.ace_list_folders {
+}
+  
+  /* the folder unordered list */
+  li.ace_list_folders ul {    
+  }
+  
+  /* a folder list item */ 
+  li.ace_list_folders ul li {
+  }
+  
+  /* sub folder list */
+  li.ace_list_folders ul li ul {    
+  }
+  
+  /* sub folder list item ()more levels for you to add) */
+  li.ace_list_folders ul li ul li {    
+  }
+  
+/* widget holds the slide show */
+li.ace-slide-show {    
+}
+
+/* holds the slide show */ 
+.ace_slideshow {  
+}
+
+  /* an image in a slideshow */
+  .ace_slideshow img.thumb {
+    
+  }
